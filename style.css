@@ -1,7 +1,8 @@
 body{
     background-color: #2C2B3D;
     color: white;
-    width: 1280px;
+    width: 100vw;
+    margin: opx auto;
 }
 
 nav {
@@ -84,7 +85,7 @@ p span {
 #linha {
     border-top: 1px solid #00BFA6;
     width: 568px;
-    margin: 0px 356px;
+    margin: 0px auto;
     height: 0px;
 }
 
@@ -101,8 +102,7 @@ footer p {
     font-size: 14px;
     line-height: 28px;
     color: white;
-    margin-right: 421px;
-    margin-left: 0px;
+    margin-right: 480px;
 }
 
 
