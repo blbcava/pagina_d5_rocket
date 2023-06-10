@@ -9,5 +9,3 @@ Layout proposto:
 resultado:
 
 ![](images/resultado.png)
-
-.
