@@ -1,7 +1,7 @@
 body{
     background-color: #2C2B3D;
     color: white;
-    margin:0;
+    width: 1280px;
 }
 
 nav {
@@ -84,14 +84,14 @@ p span {
 #linha {
     border-top: 1px solid #00BFA6;
     width: 568px;
-    margin: 0px auto;
+    margin: 0px 356px;
     height: 0px;
 }
 
 footer{
     display: flex;
     flex-direction: row-reverse;
-    justify-content: space-between;
+    justify-content:space-between;
     align-items: center;
 }
 footer p { 
@@ -100,9 +100,9 @@ footer p {
     font-weight: 500px;
     font-size: 14px;
     line-height: 28px;
-    text-align: center;
     color: white;
     margin-right: 421px;
+    margin-left: 0px;
 }
 
 
@@ -115,5 +115,6 @@ footer a {
 }
 
 img{
+    
     margin: 20px;
 }
