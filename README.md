@@ -5,3 +5,7 @@ Esse projeto consiste na criação em HTML5 e CSS3 puros uma interface se basean
 Layout proposto:
 
 ![](images/layout_figma.png)
+
+resultado:
+
+![](images/resultado.png)
